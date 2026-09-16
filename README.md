@@ -1,2 +1,0 @@
-# oopsUsingCpp
-college cpp works
